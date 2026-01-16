@@ -1,3 +1,6 @@
 *.docx
 .DS_Store
 *.html
+udacity-AI-programming-with-python/3_Deep-learning-pytorch/.ipynb_checkpoints
+udacity-AI-programming-with-python/3_Deep-learning-pytorch/__pycache__
+udacity-AI-programming-with-python/3_Deep-learning-pytorch/Cat_Dog_data
